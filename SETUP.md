@@ -15,3 +15,6 @@ Then install the depenedencies with:
 cd ./ios;
 pod install;
 ```
+
+# Alvin Thomas
+
